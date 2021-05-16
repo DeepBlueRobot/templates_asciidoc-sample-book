@@ -20,11 +20,11 @@ Organize your book chapter by chapter
 
 include::preface.adoc[]
 
-include::colophon.adoc[]
+// include::colophon.adoc[]
 
-include::dedication.adoc[]
+// include::dedication.adoc[]
 
-include::glossary.adoc[]
+// include::glossary.adoc[]
 
 include::chapter-01.adoc[]
 
@@ -42,6 +42,6 @@ include::chapter-07.adoc[]
 
 include::chapter-08.adoc[]
 
-include::bibliography.adoc[]
+// include::bibliography.adoc[]
 
-include::index.adoc[]
+// include::index.adoc[]
