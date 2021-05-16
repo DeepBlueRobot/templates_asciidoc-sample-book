@@ -2,11 +2,11 @@
 Author Name
 :doctype: book
 :encoding: utf-8
-:lang: en
+:lang: zh
 :toc: left
 :toclevels: 2
-:numbered:
-
+:imagesdir: images
+:doctitle:
 
 ////
 Change Book Name, Author's Name and Language for your need.
